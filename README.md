@@ -1,5 +1,8 @@
 # E-commerce-Back-End
 
+
+# walkthrough https://drive.google.com/file/d/1Jn3l-SSOpj44MnYJKD-9BGOn60dJB3B1/view
+
 # Description 
 Uses Node and Express to build the back end (db schema and REST API) of an e-commerce site.
 
