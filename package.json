@@ -5,8 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "seed": "node seeds/index.js"
-    
+    "seed": "node seeds/index.js",
+    "start": "node server.js"
+
   },
   "repository": {
     "type": "git",
@@ -17,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/diegorodd/E-commerce-Back-End/issues"
   },
-  "homepage": "https://github.com/diegorodd/E-commerce-Back-End#readme"
+  "homepage": "https://github.com/diegorodd/E-commerce-Back-End#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "sequelize": "^6.21.4"
+  }
 }
